@@ -1,0 +1,4 @@
+name: EntitySpawnEffect
+version: '${project.version}'
+main: com.oftx.entityspawneffect.EntitySpawnEffect
+api-version: '1.20'
